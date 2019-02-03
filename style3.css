@@ -1,0 +1,282 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: peachpuff;
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+ color: cadetblue;
+}
+
+  div.header{
+    padding-left: 14px;
+    padding-top: 20px;
+}
+
+div.background{
+    background-image: url("15.2.14 Its all begins with a story.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex: 1;
+    margin: 0 80px;
+}
+
+li{
+    color: black;
+    letter-spacing: 1px;
+    padding: 10px; 
+    flex: 1;
+    font size: 30px;
+    font-weight: bold; 
+}
+
+h3{
+    text-align: center;
+    color: cadetblue;
+    font-size: 70px;
+}
+
+div.image {
+    width: 100%;
+    height: 500px;
+    background-position: center center;
+    background-size: 100%;
+    transition: background-size 250ms;
+}
+
+div.image > a {
+    display: block;
+    width: 40%;
+    height: 500px;
+}
+
+div.image:hover {
+    background-size: 110%;
+}
+
+div.image.anonymous{
+    background-image: url("2014/14.1.7 anonymous.jpg");
+}
+
+div.image.age{
+    background-image: url("2014/14.2.27Age.jpg");
+}
+
+div.image.murmaid{
+    background-image: url("2014/14.3.20murmaid.jpg");
+}
+
+div.image.legion{
+    background-image: url("2014/14.3.31Legion.jpg");
+}
+
+div.image.inside{
+    background-image: url("2014/14.6.5.look inside me.jpg");
+}
+
+div.image.focus{
+    background-image: url("2014/14.6.9focus.jpg");
+}
+
+div.image.blue{
+    background-image: url("2014/14.6.14blue whale black skys.jpg");
+}
+
+div.image.war{
+    background-image: url("2014/14.8.1Endless War.jpg");
+}
+
+div.image.forest{
+    background-image: url("2014/14.9.8forest spirit poster.jpg");
+}
+
+div.image.raven{
+    background-image: url("2014/14.9.30three eyed raven.jpg");
+}
+
+div.image.chaos{
+    background-image: url("2014/14.10.16Chaos.jpg");
+}
+
+div.image.demolic{
+    background-image: url("2014/14.11.3.Demolic.jpg");
+}
+
+div.image.galaxia{
+    background-image: url("2014/14.11.13galaxia.jpg");
+}
+
+div.image.desert{
+    background-image: url("2014/14.11.22desert.jpg");
+}
+
+div.image.owl{
+    background-image: url("2014/14.12.1Not an owl.jpg");
+}
+
+div.image.oqta{
+    background-image: url("2014/15.1.29oqta.jpg");
+}
+
+div.image.owl{
+    background-image: url("2014/14.12.1Not an owl.jpg");
+}
+
+div.image.elephant {
+    background-image: url("15.1.13mandala elephent.jpg");
+}
+
+div.image.yael {
+    background-image: url("15.2.12Yael.jpg");
+}
+
+div.image.tree{
+    background-image: url("15.2.14 Its all begins with a story.jpg");
+}
+
+div.image.horns{
+    background-image: url("15.2.14horns.jpg");
+}
+
+div.image.child{
+    background-image: url("15.2.16 child.JPG");
+}
+
+div.image.golden{
+    background-image: url("15.4.3The golden lady.JPG");
+}
+
+div.image.look{
+    background-image: url("15.4.9Now look what youve done.JPG");
+}
+
+div.image.faun{
+    background-image: url("15.4.21faun.JPG");
+}
+
+div.image.deer{
+    background-image: url("15.6.13deer god.JPG");
+}
+
+div.image.moon{
+    background-image: url("15.8.15there is a MOON over.JPG");
+}
+
+div.image.marv{
+    background-image: url("15.9.15marvelous.JPG");
+}
+
+div.image.blind{
+    background-image: url("15.11.14Blind.JPG");
+}
+
+div.image.vine {
+    background-image: url("15.12.3.Tree.JPG");
+}
+
+div.image.mind {
+    background-image: url("2016/16.4.21 my mind dont mind copy.JPG");
+}
+
+div.image.splash {
+    background-image: url("2016/img005.JPG");
+}
+
+div.image.collage {
+    background-image: url("2016/collage.JPG");
+}
+
+div.image.eye {
+    background-image: url("2017/eye.JPG");
+}
+
+div.image.honor {
+    background-image: url("2017/for honor.JPG");
+}
+
+div.image.enstain {
+    background-image: url("2017/enstain.JPG");
+}
+
+div.image.fisherman {
+    background-image: url("2017/fisherman.JPG");
+}
+
+div.image.malka {
+    background-image: url("2017/malka.JPG");
+}
+
+div.image.big {
+    background-image: url("2017/big wed.JPG");
+}
+
+div.image.digital2{
+    background-image: url("2017/digital2.JPG");
+}
+
+div.image.digital {
+    background-image: url("2017/digital.JPG");
+}
+
+div.image.whales {
+    background-image: url("2017/whales.JPG");
+}
+
+div.image.saehors {
+    background-image: url("2017/saehors.jpg")
+}
+
+div.image.dino {
+    background-image: url("2018/dino.JPG");
+}
+
+div.image.mononoke {
+    background-image: url("2018/mononoke.JPG");
+}
+
+div.image.Anubis {
+    background-image: url("2018/Anubis.JPG");
+}
+
+div.image.bastet {
+    background-image: url("2018/bastet.jpg");
+}
+
+div.image.skull {
+    background-image: url("2018/skull.JPG");
+}
+
+
+div.image.owln  {
+    background-image: url("2018/owl 2017n.JPG");
+}
+
+div.image.saehors {
+    background-image: url("2017/saehors.JPG");
+}
+
+div.colum {
+    display: flex;
+    display:  no-repeat;
+    margin: 0% 80px;
+}
+
+div.image{
+    display: flex 1;
+    display: no-repeat;
+    background-repeat: no-repeat; 
+    margin: 10px;
+}

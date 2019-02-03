@@ -1,0 +1,80 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: peachpuff;
+  padding: 14px 20px;
+  
+}
+
+div.header{
+    padding-left: 14px;
+    padding-top: 20px;
+}
+
+div.wrap {
+    display: flex;
+}
+
+div.process {
+    padding: 5px;
+
+}
+
+
+div.typography{
+padding-left: 14px;
+
+}
+
+div.work-title{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+p{
+padding: 5px;
+}
+
+
+
+div.image {
+    flex: 1;
+    max-width: 50em;
+    margin: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+div.footer{
+    display: flex;
+    border-top: 1px solid black;
+    
+
+}
+
+div.links{
+    flex: 1;
+    margin: 10px;
+}
+
+div.links img {
+    width: 20px;
+    display: inline;
+}
+
+div.header div.colom{
+ display: flex 1;
+
+}
+
+div.image div.colom{
+    display: flex 1; 
+
+}
+
+div.footer p {
+    font-size: 10px;
+}
